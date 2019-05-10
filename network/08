@@ -1,0 +1,4 @@
+Using nslookup slash16.org && whois $IP_ADDRESS
+Provider: Amazon Web Services(AWS)
+
+#Find the provider of slash16.org
