@@ -1,0 +1,4 @@
+hostname NEW-NAME
+
+#type "uname -n" to show current hostname
+#What command can you use to rename your system?

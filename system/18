@@ -1,0 +1,4 @@
+service ssh stop
+pkill ssh
+
+#Find the command that kills ssh service
